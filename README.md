@@ -1,6 +1,10 @@
 # ◈ Phantom OSINT
 
 أداة احترافية لإنشاء وإدارة ملفات OSINT المرئية.
+## تحميل
+```bash
+git clone https://github.com/PhantomByte313/PhantomOsint.git
+```
 
 ## تشغيل
 ```bash
